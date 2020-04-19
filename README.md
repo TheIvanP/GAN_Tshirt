@@ -1,2 +1,5 @@
 # GAN_Tshirt
-GAN network to generate a tshirt from noise
+GAN  to generate a rough approximation of a tshirt from noise
+
+## Usage
+run with python interactive, plots images inline 
